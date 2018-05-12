@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/787
     wikipedia: http://en.wikipedia.org/wiki/Max_M%C3%BCller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24315#The-Silesian-Horseherd---Questions-of-the-Hour
 gutenberg_issued: '2008-01-15'
 gutenberg_type: Text
 identifiers:
